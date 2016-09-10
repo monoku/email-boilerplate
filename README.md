@@ -1,1 +1,1 @@
-# Emails Blueprints
+# Email Blueprints
