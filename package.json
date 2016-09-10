@@ -1,0 +1,32 @@
+{
+  "name": "colivo-emails",
+  "version": "1.0.0",
+  "description": "Colivo's email templates",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "browser-sync": "^2.15.0",
+    "gulp": "^3.9.1",
+    "gulp-data": "^1.2.1",
+    "gulp-inline-css": "^3.1.0",
+    "gulp-inline-image-path": "^0.0.10",
+    "gulp-nunjucks-render": "^2.0.0",
+    "gulp-sass": "^2.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colivo/colivo-emails.git"
+  },
+  "keywords": [
+    "email"
+  ],
+  "author": "davsket",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/colivo/colivo-emails/issues"
+  },
+  "homepage": "https://github.com/colivo/colivo-emails#readme"
+}
